@@ -1,0 +1,15 @@
+{
+  "name": "ngInject-webpack-example",
+  "version": "0.0.1",
+  "description": "Example of webpack, ng-annotate-webpack-plugin, and @ngInject annotations",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Liechty",
+  "devDependencies": {
+    "angular": "^1.3.6",
+    "angular-ui-router": "^0.2.11",
+    "ng-annotate-webpack-plugin": "^0.1.2",
+    "webpack": "^1.4.13"
+  }
+}
